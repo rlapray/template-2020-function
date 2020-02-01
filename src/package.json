@@ -1,0 +1,19 @@
+{
+  "name": "template-2020-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rlapray/template-2020-function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlapray/template-2020-function/issues"
+  },
+  "homepage": "https://github.com/rlapray/template-2020-function#readme"
+}

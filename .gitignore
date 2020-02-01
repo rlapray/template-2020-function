@@ -1,0 +1,5 @@
+terraform/production/.terraform
+terraform/production/payload.zip
+terraform/staging/.terraform
+terraform/staging/payload.zip
+.idea
